@@ -1,4 +1,4 @@
-const TicTacToe = require('./tictaktoe.js');
+const TicTacToe = require('./tictactoe.js');
 
 const tictactoe = new TicTacToe();
 
